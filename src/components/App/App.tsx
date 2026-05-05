@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import css from './App.module.css'
 import SearchBar from '../SearchBar/SearchBar';
 import type { Movie } from '../../types/movie';
 import toast from 'react-hot-toast';
